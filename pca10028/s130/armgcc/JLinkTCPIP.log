@@ -1,0 +1,13 @@
+SEGGER J-Link Remote Server V5.02j LogFile
+Logging started @ 2016-04-07 18:56
+TT-EE-Time    -NNNN
+TT: Type
+  00 TCPIP_IN
+  01 TCPIP_OUT
+  02 USB_IN
+  03 USB_OUT
+  04 JLINK
+  05 SERVER
+EE: Encoding
+  00 Plain text
+  01 Hex

@@ -1,0 +1,509 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APPL_LOG	main.c	/^#define APPL_LOG /;"	d	file:
+AR	pca10028/s120/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/s130/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/ser_s120_hci/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/ser_s120_spi/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/ser_s120_uart/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/ser_s130_hci/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/ser_s130_spi/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10028/ser_s130_uart/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10031/s120/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AR	pca10031/s130/armgcc/Makefile	/^AR       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ar" -r$/;"	m
+AS	pca10028/s120/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/s130/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/ser_s120_hci/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/ser_s120_spi/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/ser_s120_uart/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/ser_s130_hci/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/ser_s130_spi/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10028/ser_s130_uart/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10031/s120/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+AS	pca10031/s130/armgcc/Makefile	/^AS       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-as"$/;"	m
+ASM_OBJECTS	pca10028/s120/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/s130/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/ser_s120_hci/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/ser_s120_spi/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/ser_s120_uart/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/ser_s130_hci/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/ser_s130_spi/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10028/ser_s130_uart/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10031/s120/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_OBJECTS	pca10031/s130/armgcc/Makefile	/^ASM_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(ASM_SOURCE_FILE_NAMES:.s=.o) )$/;"	m
+ASM_PATHS	pca10028/s120/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/s130/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/ser_s120_hci/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/ser_s120_spi/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/ser_s120_uart/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/ser_s130_hci/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/ser_s130_spi/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10028/ser_s130_uart/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10031/s120/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_PATHS	pca10031/s130/armgcc/Makefile	/^ASM_PATHS = $(call remduplicates, $(dir $(ASM_SOURCE_FILES) ))$/;"	m
+ASM_SOURCE_FILES	pca10028/s120/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/s130/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath $(NRF_SDK)\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/ser_s120_hci/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/ser_s120_spi/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/ser_s120_uart/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/ser_s130_hci/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/ser_s130_spi/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10028/ser_s130_uart/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10031/s120/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILES	pca10031/s130/armgcc/Makefile	/^ASM_SOURCE_FILES  = $(abspath ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc\/gcc_startup_nrf51.s)$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/s120/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/s130/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/ser_s120_hci/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/ser_s120_spi/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/ser_s120_uart/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/ser_s130_hci/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/ser_s130_spi/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10028/ser_s130_uart/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10031/s120/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+ASM_SOURCE_FILE_NAMES	pca10031/s130/armgcc/Makefile	/^ASM_SOURCE_FILE_NAMES = $(notdir $(ASM_SOURCE_FILES))$/;"	m
+BOND_DELETE_ALL_BUTTON_PIN	main.c	/^#define BOND_DELETE_ALL_BUTTON_PIN /;"	d	file:
+BUILD_DIRECTORIES	pca10028/s120/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/s130/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/ser_s120_hci/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/ser_s120_spi/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/ser_s120_uart/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/ser_s130_hci/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/ser_s130_spi/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10028/ser_s130_uart/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10031/s120/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+BUILD_DIRECTORIES	pca10031/s130/armgcc/Makefile	/^BUILD_DIRECTORIES := $(sort $(OBJECT_DIRECTORY) $(OUTPUT_BINARY_DIRECTORY) $(LISTING_DIRECTORY) )$/;"	m
+CC	pca10028/s120/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/s130/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/ser_s120_hci/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/ser_s120_spi/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/ser_s120_uart/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/ser_s130_hci/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/ser_s130_spi/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10028/ser_s130_uart/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10031/s120/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CC	pca10031/s130/armgcc/Makefile	/^CC       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-gcc"$/;"	m
+CFLAGS	pca10028/s120/armgcc/Makefile	/^CFLAGS  = -DBOARD_PCA10028$/;"	m
+CFLAGS	pca10028/s130/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE0$/;"	m
+CFLAGS	pca10028/ser_s120_hci/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE0$/;"	m
+CFLAGS	pca10028/ser_s120_spi/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE3$/;"	m
+CFLAGS	pca10028/ser_s120_uart/armgcc/Makefile	/^CFLAGS  = -DBOARD_PCA10028$/;"	m
+CFLAGS	pca10028/ser_s130_hci/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE0$/;"	m
+CFLAGS	pca10028/ser_s130_spi/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE3$/;"	m
+CFLAGS	pca10028/ser_s130_uart/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE0$/;"	m
+CFLAGS	pca10031/s120/armgcc/Makefile	/^CFLAGS  = -DSOFTDEVICE_PRESENT$/;"	m
+CFLAGS	pca10031/s130/armgcc/Makefile	/^CFLAGS  = -DSWI_DISABLE0$/;"	m
+CLIENT_HANDLING_H__	client_handling.h	/^#define CLIENT_HANDLING_H__$/;"	d
+CLOCK_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define CLOCK_CONFIG_IRQ_PRIORITY /;"	d
+CLOCK_CONFIG_LF_RC_CAL_INTERVAL	config/nrf_drv_config.h	/^#define CLOCK_CONFIG_LF_RC_CAL_INTERVAL /;"	d
+CLOCK_CONFIG_LF_SRC	config/nrf_drv_config.h	/^#define CLOCK_CONFIG_LF_SRC /;"	d
+CLOCK_CONFIG_XTAL_FREQ	config/nrf_drv_config.h	/^#define CLOCK_CONFIG_XTAL_FREQ /;"	d
+C_OBJECTS	pca10028/s120/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/s130/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/ser_s120_hci/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/ser_s120_spi/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/ser_s120_uart/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/ser_s130_hci/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/ser_s130_spi/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10028/ser_s130_uart/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10031/s120/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_OBJECTS	pca10031/s130/armgcc/Makefile	/^C_OBJECTS = $(addprefix $(OBJECT_DIRECTORY)\/, $(C_SOURCE_FILE_NAMES:.c=.o) )$/;"	m
+C_PATHS	pca10028/s120/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/s130/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/ser_s120_hci/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/ser_s120_spi/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/ser_s120_uart/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/ser_s130_hci/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/ser_s130_spi/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10028/ser_s130_uart/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10031/s120/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_PATHS	pca10031/s130/armgcc/Makefile	/^C_PATHS = $(call remduplicates, $(dir $(C_SOURCE_FILES) ) )$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/s120/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/s130/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/ser_s120_hci/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/ser_s120_spi/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/ser_s120_uart/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/ser_s130_hci/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/ser_s130_spi/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10028/ser_s130_uart/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10031/s120/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+C_SOURCE_FILE_NAMES	pca10031/s130/armgcc/Makefile	/^C_SOURCE_FILE_NAMES = $(notdir $(C_SOURCE_FILES))$/;"	m
+DEVICE_MANAGER_APP_CONTEXT_SIZE	config/device_manager_cnfg.h	/^#define DEVICE_MANAGER_APP_CONTEXT_SIZE /;"	d
+DEVICE_MANAGER_CNFG_H__	config/device_manager_cnfg.h	/^#define DEVICE_MANAGER_CNFG_H__$/;"	d
+DEVICE_MANAGER_MAX_APPLICATIONS	config/device_manager_cnfg.h	/^#define DEVICE_MANAGER_MAX_APPLICATIONS /;"	d
+DEVICE_MANAGER_MAX_BONDS	config/device_manager_cnfg.h	/^#define DEVICE_MANAGER_MAX_BONDS /;"	d
+DEVICE_MANAGER_MAX_CONNECTIONS	config/device_manager_cnfg.h	/^#define DEVICE_MANAGER_MAX_CONNECTIONS /;"	d
+DM_GATT_CCCD_COUNT	config/device_manager_cnfg.h	/^#define DM_GATT_CCCD_COUNT /;"	d
+GPIOTE_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define GPIOTE_CONFIG_IRQ_PRIORITY /;"	d
+GPIOTE_CONFIG_NUM_OF_LOW_POWER_EVENTS	config/nrf_drv_config.h	/^#define GPIOTE_CONFIG_NUM_OF_LOW_POWER_EVENTS /;"	d
+GPIOTE_CONFIG_USE_SWI_EGU	config/nrf_drv_config.h	/^#define GPIOTE_CONFIG_USE_SWI_EGU /;"	d
+GPIOTE_ENABLED	config/nrf_drv_config.h	/^#define GPIOTE_ENABLED /;"	d
+IDLE	client_handling.c	/^    IDLE,                                           \/**< Idle state. *\/$/;"	e	enum:__anon1	file:
+INC_PATHS	pca10028/s120/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/s130/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/ser_s120_hci/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/ser_s120_spi/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/ser_s120_uart/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/ser_s130_hci/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/ser_s130_spi/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10028/ser_s130_uart/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10031/s120/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+INC_PATHS	pca10031/s130/armgcc/Makefile	/^INC_PATHS  = -I$(abspath ..\/..\/..\/config)$/;"	m
+LD	pca10028/s120/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/s130/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/ser_s120_hci/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/ser_s120_spi/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/ser_s120_uart/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/ser_s130_hci/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/ser_s130_spi/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10028/ser_s130_uart/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10031/s120/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LD	pca10031/s130/armgcc/Makefile	/^LD       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-ld"$/;"	m
+LED_PIN_NO_OFFSET	client_handling.c	/^#define LED_PIN_NO_OFFSET /;"	d	file:
+LINKER_SCRIPT	pca10028/s120/armgcc/Makefile	/^nrf51422_xxac_s120: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/s130/armgcc/Makefile	/^nrf51822_s130: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/ser_s120_hci/armgcc/Makefile	/^nrf51422_xxac_s120: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/ser_s120_spi/armgcc/Makefile	/^nrf51422_xxac_s120: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/ser_s120_uart/armgcc/Makefile	/^nrf51422_xxac_s120: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/ser_s130_hci/armgcc/Makefile	/^nrf51422_xxac_s130: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/ser_s130_spi/armgcc/Makefile	/^nrf51422_xxac_s130: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10028/ser_s130_uart/armgcc/Makefile	/^nrf51422_xxac_s130: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10031/s120/armgcc/Makefile	/^nrf51422_xxac_s120: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LINKER_SCRIPT	pca10031/s130/armgcc/Makefile	/^nrf51422_xxac_s130: LINKER_SCRIPT=ble_app_multilink_central_gcc_nrf51.ld$/;"	m
+LISTING_DIRECTORY	pca10028/s120/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/s130/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/ser_s120_hci/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/ser_s120_spi/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/ser_s120_uart/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/ser_s130_hci/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/ser_s130_spi/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10028/ser_s130_uart/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10031/s120/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LISTING_DIRECTORY	pca10031/s130/armgcc/Makefile	/^LISTING_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+LPCOMP_CONFIG_DETECTION	config/nrf_drv_config.h	/^#define LPCOMP_CONFIG_DETECTION /;"	d
+LPCOMP_CONFIG_INPUT	config/nrf_drv_config.h	/^#define LPCOMP_CONFIG_INPUT /;"	d
+LPCOMP_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define LPCOMP_CONFIG_IRQ_PRIORITY /;"	d
+LPCOMP_CONFIG_REFERENCE	config/nrf_drv_config.h	/^#define LPCOMP_CONFIG_REFERENCE /;"	d
+LPCOMP_ENABLED	config/nrf_drv_config.h	/^#define LPCOMP_ENABLED /;"	d
+MAKEFILE_DIR	pca10028/s120/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/s130/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/ser_s120_hci/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/ser_s120_spi/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/ser_s120_uart/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/ser_s130_hci/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/ser_s130_spi/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10028/ser_s130_uart/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10031/s120/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_DIR	pca10031/s130/armgcc/Makefile	/^MAKEFILE_DIR := $(dir $(MAKEFILE_NAME) ) $/;"	m
+MAKEFILE_NAME	pca10028/s120/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/s130/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/ser_s120_hci/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/ser_s120_spi/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/ser_s120_uart/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/ser_s130_hci/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/ser_s130_spi/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10028/ser_s130_uart/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10031/s120/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAKEFILE_NAME	pca10031/s130/armgcc/Makefile	/^MAKEFILE_NAME := $(MAKEFILE_LIST)$/;"	m
+MAX_CLIENTS	client_handling.h	/^#define MAX_CLIENTS /;"	d
+MAX_CONNECTION_INTERVAL	main.c	/^#define MAX_CONNECTION_INTERVAL /;"	d	file:
+MAX_PEER_COUNT	main.c	/^#define MAX_PEER_COUNT /;"	d	file:
+MIN_CONNECTION_INTERVAL	main.c	/^#define MIN_CONNECTION_INTERVAL /;"	d	file:
+MK	pca10028/s120/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/s130/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/ser_s120_hci/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/ser_s120_spi/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/ser_s120_uart/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/ser_s130_hci/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/ser_s130_spi/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10028/ser_s130_uart/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10031/s120/armgcc/Makefile	/^MK := mkdir$/;"	m
+MK	pca10031/s130/armgcc/Makefile	/^MK := mkdir$/;"	m
+MULTILINK_PERIPHERAL_BASE_UUID	client_handling.c	/^#define MULTILINK_PERIPHERAL_BASE_UUID /;"	d	file:
+MULTILINK_PERIPHERAL_CHAR_UUID	client_handling.c	/^#define MULTILINK_PERIPHERAL_CHAR_UUID /;"	d	file:
+MULTILINK_PERIPHERAL_SERVICE_UUID	client_handling.c	/^#define MULTILINK_PERIPHERAL_SERVICE_UUID /;"	d	file:
+NM	pca10028/s120/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/s130/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/ser_s120_hci/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/ser_s120_spi/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/ser_s120_uart/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/ser_s130_hci/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/ser_s130_spi/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10028/ser_s130_uart/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10031/s120/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NM	pca10031/s130/armgcc/Makefile	/^NM       		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-nm"$/;"	m
+NO_ECHO	pca10028/s120/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/s120/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/s130/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/s130/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/ser_s120_hci/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/ser_s120_hci/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/ser_s120_spi/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/ser_s120_spi/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/ser_s120_uart/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/ser_s120_uart/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/ser_s130_hci/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/ser_s130_hci/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/ser_s130_spi/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/ser_s130_spi/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10028/ser_s130_uart/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10028/ser_s130_uart/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10031/s120/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10031/s120/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NO_ECHO	pca10031/s130/armgcc/Makefile	/^NO_ECHO := $/;"	m
+NO_ECHO	pca10031/s130/armgcc/Makefile	/^NO_ECHO := @$/;"	m
+NRF_DRV_CONFIG_H	config/nrf_drv_config.h	/^#define NRF_DRV_CONFIG_H$/;"	d
+NRF_MAXIMUM_LATENCY_US	config/nrf_drv_config.h	/^#define NRF_MAXIMUM_LATENCY_US /;"	d
+OBJCOPY	pca10028/s120/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/s130/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/ser_s120_hci/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/ser_s120_spi/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/ser_s120_uart/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/ser_s130_hci/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/ser_s130_spi/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10028/ser_s130_uart/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10031/s120/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJCOPY	pca10031/s130/armgcc/Makefile	/^OBJCOPY  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objcopy"$/;"	m
+OBJDUMP	pca10028/s120/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/s130/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/ser_s120_hci/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/ser_s120_spi/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/ser_s120_uart/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/ser_s130_hci/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/ser_s130_spi/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10028/ser_s130_uart/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10031/s120/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJDUMP	pca10031/s130/armgcc/Makefile	/^OBJDUMP  		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-objdump"$/;"	m
+OBJECTS	pca10028/s120/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/s130/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/ser_s120_hci/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/ser_s120_spi/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/ser_s120_uart/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/ser_s130_hci/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/ser_s130_spi/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10028/ser_s130_uart/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10031/s120/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECTS	pca10031/s130/armgcc/Makefile	/^OBJECTS = $(C_OBJECTS) $(ASM_OBJECTS)$/;"	m
+OBJECT_DIRECTORY	pca10028/s120/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/s130/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/ser_s120_hci/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/ser_s120_spi/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/ser_s120_uart/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/ser_s130_hci/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/ser_s130_spi/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10028/ser_s130_uart/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10031/s120/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OBJECT_DIRECTORY	pca10031/s130/armgcc/Makefile	/^OBJECT_DIRECTORY = _build$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/s120/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/s130/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/ser_s120_hci/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/ser_s120_spi/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/ser_s120_uart/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/ser_s130_hci/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/ser_s130_spi/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10028/ser_s130_uart/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10031/s120/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_BINARY_DIRECTORY	pca10031/s130/armgcc/Makefile	/^OUTPUT_BINARY_DIRECTORY = $(OBJECT_DIRECTORY)$/;"	m
+OUTPUT_FILENAME	pca10028/s120/armgcc/Makefile	/^nrf51422_xxac_s120: OUTPUT_FILENAME := nrf51422_xxac_s120$/;"	m
+OUTPUT_FILENAME	pca10028/s130/armgcc/Makefile	/^nrf51822_s130: OUTPUT_FILENAME := nrf51822_s130$/;"	m
+OUTPUT_FILENAME	pca10028/ser_s120_hci/armgcc/Makefile	/^nrf51422_xxac_s120: OUTPUT_FILENAME := nrf51422_xxac_s120$/;"	m
+OUTPUT_FILENAME	pca10028/ser_s120_spi/armgcc/Makefile	/^nrf51422_xxac_s120: OUTPUT_FILENAME := nrf51422_xxac_s120$/;"	m
+OUTPUT_FILENAME	pca10028/ser_s120_uart/armgcc/Makefile	/^nrf51422_xxac_s120: OUTPUT_FILENAME := nrf51422_xxac_s120$/;"	m
+OUTPUT_FILENAME	pca10028/ser_s130_hci/armgcc/Makefile	/^nrf51422_xxac_s130: OUTPUT_FILENAME := nrf51422_xxac_s130$/;"	m
+OUTPUT_FILENAME	pca10028/ser_s130_spi/armgcc/Makefile	/^nrf51422_xxac_s130: OUTPUT_FILENAME := nrf51422_xxac_s130$/;"	m
+OUTPUT_FILENAME	pca10028/ser_s130_uart/armgcc/Makefile	/^nrf51422_xxac_s130: OUTPUT_FILENAME := nrf51422_xxac_s130$/;"	m
+OUTPUT_FILENAME	pca10031/s120/armgcc/Makefile	/^nrf51422_xxac_s120: OUTPUT_FILENAME := nrf51422_xxac_s120$/;"	m
+OUTPUT_FILENAME	pca10031/s130/armgcc/Makefile	/^nrf51422_xxac_s130: OUTPUT_FILENAME := nrf51422_xxac_s130$/;"	m
+PROJECT_NAME	pca10028/s120/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s120_pca10028$/;"	m
+PROJECT_NAME	pca10028/s130/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s130_pca10028$/;"	m
+PROJECT_NAME	pca10028/ser_s120_hci/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s120_hci_pca10028$/;"	m
+PROJECT_NAME	pca10028/ser_s120_spi/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s120_spi_pca10028$/;"	m
+PROJECT_NAME	pca10028/ser_s120_uart/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s120_uart_pca10028$/;"	m
+PROJECT_NAME	pca10028/ser_s130_hci/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s130_hci_pca10028$/;"	m
+PROJECT_NAME	pca10028/ser_s130_spi/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s130_spi_pca10028$/;"	m
+PROJECT_NAME	pca10028/ser_s130_uart/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s130_uart_pca10028$/;"	m
+PROJECT_NAME	pca10031/s120/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s120_pca10031$/;"	m
+PROJECT_NAME	pca10031/s130/armgcc/Makefile	/^PROJECT_NAME := ble_app_multilink_central_s130_pca10031$/;"	m
+PSTORAGE_CMD_QUEUE_SIZE	config/pstorage_platform.h	/^#define PSTORAGE_CMD_QUEUE_SIZE /;"	d
+PSTORAGE_DATA_END_ADDR	config/pstorage_platform.h	/^#define PSTORAGE_DATA_END_ADDR /;"	d
+PSTORAGE_DATA_START_ADDR	config/pstorage_platform.h	/^#define PSTORAGE_DATA_START_ADDR /;"	d
+PSTORAGE_FLASH_EMPTY_MASK	config/pstorage_platform.h	/^#define PSTORAGE_FLASH_EMPTY_MASK /;"	d
+PSTORAGE_FLASH_PAGE_END	config/pstorage_platform.h	/^#define PSTORAGE_FLASH_PAGE_END /;"	d
+PSTORAGE_FLASH_PAGE_SIZE	config/pstorage_platform.h	/^#define PSTORAGE_FLASH_PAGE_SIZE /;"	d
+PSTORAGE_MAX_BLOCK_SIZE	config/pstorage_platform.h	/^#define PSTORAGE_MAX_BLOCK_SIZE /;"	d
+PSTORAGE_MIN_BLOCK_SIZE	config/pstorage_platform.h	/^#define PSTORAGE_MIN_BLOCK_SIZE /;"	d
+PSTORAGE_NUM_OF_PAGES	config/pstorage_platform.h	/^#define PSTORAGE_NUM_OF_PAGES /;"	d
+PSTORAGE_PL_H__	config/pstorage_platform.h	/^#define PSTORAGE_PL_H__$/;"	d
+PSTORAGE_SWAP_ADDR	config/pstorage_platform.h	/^#define PSTORAGE_SWAP_ADDR /;"	d
+QDEC_CONFIG_DBFEN	config/nrf_drv_config.h	/^#define QDEC_CONFIG_DBFEN /;"	d
+QDEC_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define QDEC_CONFIG_IRQ_PRIORITY /;"	d
+QDEC_CONFIG_LEDPOL	config/nrf_drv_config.h	/^#define QDEC_CONFIG_LEDPOL /;"	d
+QDEC_CONFIG_LEDPRE	config/nrf_drv_config.h	/^#define QDEC_CONFIG_LEDPRE /;"	d
+QDEC_CONFIG_PIO_A	config/nrf_drv_config.h	/^#define QDEC_CONFIG_PIO_A /;"	d
+QDEC_CONFIG_PIO_B	config/nrf_drv_config.h	/^#define QDEC_CONFIG_PIO_B /;"	d
+QDEC_CONFIG_PIO_LED	config/nrf_drv_config.h	/^#define QDEC_CONFIG_PIO_LED /;"	d
+QDEC_CONFIG_REPORTPER	config/nrf_drv_config.h	/^#define QDEC_CONFIG_REPORTPER /;"	d
+QDEC_CONFIG_SAMPLEPER	config/nrf_drv_config.h	/^#define QDEC_CONFIG_SAMPLEPER /;"	d
+QDEC_CONFIG_SAMPLE_INTEN	config/nrf_drv_config.h	/^#define QDEC_CONFIG_SAMPLE_INTEN /;"	d
+QDEC_ENABLED	config/nrf_drv_config.h	/^#define QDEC_ENABLED /;"	d
+RM	pca10028/s120/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/s130/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/ser_s120_hci/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/ser_s120_spi/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/ser_s120_uart/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/ser_s130_hci/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/ser_s130_spi/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10028/ser_s130_uart/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10031/s120/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RM	pca10031/s130/armgcc/Makefile	/^RM := rm -rf$/;"	m
+RNG_CONFIG_ERROR_CORRECTION	config/nrf_drv_config.h	/^#define RNG_CONFIG_ERROR_CORRECTION /;"	d
+RNG_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define RNG_CONFIG_IRQ_PRIORITY /;"	d
+RNG_CONFIG_POOL_SIZE	config/nrf_drv_config.h	/^#define RNG_CONFIG_POOL_SIZE /;"	d
+RNG_ENABLED	config/nrf_drv_config.h	/^#define RNG_ENABLED /;"	d
+RTC0_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define RTC0_CONFIG_FREQUENCY /;"	d
+RTC0_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define RTC0_CONFIG_IRQ_PRIORITY /;"	d
+RTC0_CONFIG_RELIABLE	config/nrf_drv_config.h	/^#define RTC0_CONFIG_RELIABLE /;"	d
+RTC0_ENABLED	config/nrf_drv_config.h	/^#define RTC0_ENABLED /;"	d
+RTC0_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define RTC0_INSTANCE_INDEX /;"	d
+RTC1_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define RTC1_CONFIG_FREQUENCY /;"	d
+RTC1_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define RTC1_CONFIG_IRQ_PRIORITY /;"	d
+RTC1_CONFIG_RELIABLE	config/nrf_drv_config.h	/^#define RTC1_CONFIG_RELIABLE /;"	d
+RTC1_ENABLED	config/nrf_drv_config.h	/^#define RTC1_ENABLED /;"	d
+RTC1_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define RTC1_INSTANCE_INDEX /;"	d
+RTC_COUNT	config/nrf_drv_config.h	/^#define RTC_COUNT /;"	d
+SCAN_INTERVAL	main.c	/^#define SCAN_INTERVAL /;"	d	file:
+SCAN_WINDOW	main.c	/^#define SCAN_WINDOW /;"	d	file:
+SEC_PARAM_BOND	main.c	/^#define SEC_PARAM_BOND /;"	d	file:
+SEC_PARAM_IO_CAPABILITIES	main.c	/^#define SEC_PARAM_IO_CAPABILITIES /;"	d	file:
+SEC_PARAM_MAX_KEY_SIZE	main.c	/^#define SEC_PARAM_MAX_KEY_SIZE /;"	d	file:
+SEC_PARAM_MIN_KEY_SIZE	main.c	/^#define SEC_PARAM_MIN_KEY_SIZE /;"	d	file:
+SEC_PARAM_MITM	main.c	/^#define SEC_PARAM_MITM /;"	d	file:
+SEC_PARAM_OOB	main.c	/^#define SEC_PARAM_OOB /;"	d	file:
+SIZE	pca10028/s120/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/s130/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/ser_s120_hci/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/ser_s120_spi/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/ser_s120_uart/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/ser_s130_hci/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/ser_s130_spi/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10028/ser_s130_uart/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10031/s120/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SIZE	pca10031/s130/armgcc/Makefile	/^SIZE    		:= "$(GNU_INSTALL_ROOT)\/bin\/$(GNU_PREFIX)-size"$/;"	m
+SLAVE_LATENCY	main.c	/^#define SLAVE_LATENCY /;"	d	file:
+STATE_ERROR	client_handling.c	/^    STATE_ERROR                                     \/**< Error state. *\/$/;"	e	enum:__anon1	file:
+STATE_NOTIF_ENABLE	client_handling.c	/^    STATE_NOTIF_ENABLE,                             \/**< State where the request to enable notifications is sent to the peer. . *\/$/;"	e	enum:__anon1	file:
+STATE_RUNNING	client_handling.c	/^    STATE_RUNNING,                                  \/**< Running state. *\/$/;"	e	enum:__anon1	file:
+STATE_SERVICE_DISC	client_handling.c	/^    STATE_SERVICE_DISC,                             \/**< Service discovery state. *\/$/;"	e	enum:__anon1	file:
+SUPERVISION_TIMEOUT	main.c	/^#define SUPERVISION_TIMEOUT /;"	d	file:
+TARGET_DEV_NAME	main.c	/^#define TARGET_DEV_NAME /;"	d	file:
+TEMPLATE_PATH	pca10028/s120/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/s130/armgcc/Makefile	/^TEMPLATE_PATH = $(NRF_SDK)\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/ser_s120_hci/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/ser_s120_spi/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/ser_s120_uart/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/ser_s130_hci/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/ser_s130_spi/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10028/ser_s130_uart/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10031/s120/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TEMPLATE_PATH	pca10031/s130/armgcc/Makefile	/^TEMPLATE_PATH = ..\/..\/..\/..\/..\/..\/components\/toolchain\/gcc$/;"	m
+TIMER0_CONFIG_BIT_WIDTH	config/nrf_drv_config.h	/^#define TIMER0_CONFIG_BIT_WIDTH /;"	d
+TIMER0_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define TIMER0_CONFIG_FREQUENCY /;"	d
+TIMER0_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define TIMER0_CONFIG_IRQ_PRIORITY /;"	d
+TIMER0_CONFIG_MODE	config/nrf_drv_config.h	/^#define TIMER0_CONFIG_MODE /;"	d
+TIMER0_ENABLED	config/nrf_drv_config.h	/^#define TIMER0_ENABLED /;"	d
+TIMER0_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define TIMER0_INSTANCE_INDEX /;"	d
+TIMER1_CONFIG_BIT_WIDTH	config/nrf_drv_config.h	/^#define TIMER1_CONFIG_BIT_WIDTH /;"	d
+TIMER1_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define TIMER1_CONFIG_FREQUENCY /;"	d
+TIMER1_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define TIMER1_CONFIG_IRQ_PRIORITY /;"	d
+TIMER1_CONFIG_MODE	config/nrf_drv_config.h	/^#define TIMER1_CONFIG_MODE /;"	d
+TIMER1_ENABLED	config/nrf_drv_config.h	/^#define TIMER1_ENABLED /;"	d
+TIMER1_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define TIMER1_INSTANCE_INDEX /;"	d
+TIMER2_CONFIG_BIT_WIDTH	config/nrf_drv_config.h	/^#define TIMER2_CONFIG_BIT_WIDTH /;"	d
+TIMER2_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define TIMER2_CONFIG_FREQUENCY /;"	d
+TIMER2_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define TIMER2_CONFIG_IRQ_PRIORITY /;"	d
+TIMER2_CONFIG_MODE	config/nrf_drv_config.h	/^#define TIMER2_CONFIG_MODE /;"	d
+TIMER2_ENABLED	config/nrf_drv_config.h	/^#define TIMER2_ENABLED /;"	d
+TIMER2_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define TIMER2_INSTANCE_INDEX /;"	d
+TIMER_COUNT	config/nrf_drv_config.h	/^#define TIMER_COUNT /;"	d
+TWI0_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define TWI0_CONFIG_FREQUENCY /;"	d
+TWI0_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define TWI0_CONFIG_IRQ_PRIORITY /;"	d
+TWI0_CONFIG_SCL	config/nrf_drv_config.h	/^#define TWI0_CONFIG_SCL /;"	d
+TWI0_CONFIG_SDA	config/nrf_drv_config.h	/^#define TWI0_CONFIG_SDA /;"	d
+TWI0_ENABLED	config/nrf_drv_config.h	/^#define TWI0_ENABLED /;"	d
+TWI0_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define TWI0_INSTANCE_INDEX /;"	d
+TWI1_CONFIG_FREQUENCY	config/nrf_drv_config.h	/^#define TWI1_CONFIG_FREQUENCY /;"	d
+TWI1_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define TWI1_CONFIG_IRQ_PRIORITY /;"	d
+TWI1_CONFIG_SCL	config/nrf_drv_config.h	/^#define TWI1_CONFIG_SCL /;"	d
+TWI1_CONFIG_SDA	config/nrf_drv_config.h	/^#define TWI1_CONFIG_SDA /;"	d
+TWI1_ENABLED	config/nrf_drv_config.h	/^#define TWI1_ENABLED /;"	d
+TWI1_INSTANCE_INDEX	config/nrf_drv_config.h	/^#define TWI1_INSTANCE_INDEX /;"	d
+TWI_COUNT	config/nrf_drv_config.h	/^#define TWI_COUNT /;"	d
+WDT_CONFIG_BEHAVIOUR	config/nrf_drv_config.h	/^#define WDT_CONFIG_BEHAVIOUR /;"	d
+WDT_CONFIG_IRQ_PRIORITY	config/nrf_drv_config.h	/^#define WDT_CONFIG_IRQ_PRIORITY /;"	d
+WDT_CONFIG_RELOAD_VALUE	config/nrf_drv_config.h	/^#define WDT_CONFIG_RELOAD_VALUE /;"	d
+WDT_ENABLED	config/nrf_drv_config.h	/^#define WDT_ENABLED /;"	d
+adv_report_parse	main.c	/^static uint32_t adv_report_parse(uint8_t type, data_t * p_advdata, data_t * p_typedata)$/;"	f	file:
+assert_nrf_callback	main.c	/^void assert_nrf_callback(uint16_t line_num, const uint8_t * p_file_name)$/;"	f
+ble_evt_dispatch	main.c	/^static void ble_evt_dispatch(ble_evt_t * p_ble_evt)$/;"	f	file:
+ble_stack_init	main.c	/^static void ble_stack_init(void)$/;"	f	file:
+block_id	config/pstorage_platform.h	/^    pstorage_block_t    block_id;       \/**< Block ID.*\/$/;"	m	struct:__anon3
+buttons_init	main.c	/^static void buttons_init(void)$/;"	f	file:
+char_index	client_handling.c	/^    uint8_t                      char_index;        \/**< Client characteristics index in discovered service information. *\/$/;"	m	struct:__anon2	file:
+client_find	client_handling.c	/^static uint32_t client_find(uint16_t conn_handle)$/;"	f	file:
+client_handling_ble_evt_handler	client_handling.c	/^void client_handling_ble_evt_handler(ble_evt_t * p_ble_evt)$/;"	f
+client_handling_count	client_handling.c	/^uint8_t client_handling_count(void)$/;"	f
+client_handling_create	client_handling.c	/^uint32_t client_handling_create(const dm_handle_t * p_handle, uint16_t conn_handle)$/;"	f
+client_handling_destroy	client_handling.c	/^uint32_t client_handling_destroy(const dm_handle_t * p_handle)$/;"	f
+client_handling_dm_event_handler	client_handling.c	/^ret_code_t client_handling_dm_event_handler(const dm_handle_t    * p_handle,$/;"	f
+client_handling_init	client_handling.c	/^void client_handling_init(void)$/;"	f
+client_state_t	client_handling.c	/^} client_state_t;$/;"	t	typeref:enum:__anon1	file:
+client_t	client_handling.c	/^} client_t;$/;"	t	typeref:struct:__anon2	file:
+data_len	main.c	/^    uint16_t      data_len;                                                    \/**< Length of data. *\/$/;"	m	struct:__anon4	file:
+data_t	main.c	/^}data_t;$/;"	t	typeref:struct:__anon4	file:
+db_discovery_evt_handler	client_handling.c	/^static void db_discovery_evt_handler(ble_db_discovery_evt_t * p_evt)$/;"	f	file:
+db_discovery_init	client_handling.c	/^static void db_discovery_init(void)$/;"	f	file:
+device_manager_event_handler	main.c	/^static ret_code_t device_manager_event_handler(const dm_handle_t    * p_handle,$/;"	f	file:
+device_manager_init	main.c	/^static void device_manager_init(void)$/;"	f	file:
+handle	client_handling.c	/^    dm_handle_t                  handle;            \/**< Device manager identifier for the device. *\/$/;"	m	struct:__anon2	file:
+init_pins	main.c	/^static void init_pins()$/;"	f	file:
+m_base_uuid_type	client_handling.c	/^static uint8_t          m_base_uuid_type;           \/**< UUID type. *\/$/;"	v	file:
+m_client	client_handling.c	/^static client_t         m_client[MAX_CLIENTS];      \/**< Client context information list. *\/$/;"	v	file:
+m_client_count	client_handling.c	/^static uint8_t          m_client_count;             \/**< Number of clients. *\/$/;"	v	file:
+m_connection_param	main.c	/^static const ble_gap_conn_params_t m_connection_param =$/;"	v	file:
+m_dm_app_id	main.c	/^static dm_application_instance_t          m_dm_app_id;                         \/**< Application identifier. *\/$/;"	v	file:
+m_memory_access_in_progress	main.c	/^static bool                               m_memory_access_in_progress = false; \/**< Flag to keep track of ongoing operations on persistent memory. *\/$/;"	v	file:
+m_peer_count	main.c	/^static uint8_t                            m_peer_count = 0;                    \/**< Number of peer's connected. *\/$/;"	v	file:
+m_scan_param	main.c	/^static const ble_gap_scan_params_t m_scan_param =$/;"	v	file:
+main	main.c	/^int main(void)$/;"	f
+module_id	config/pstorage_platform.h	/^    uint32_t            module_id;      \/**< Module ID.*\/$/;"	m	struct:__anon3
+notif_enable	client_handling.c	/^static void notif_enable(client_t * p_client)$/;"	f	file:
+on_ble_evt	main.c	/^static void on_ble_evt(ble_evt_t * p_ble_evt)$/;"	f	file:
+on_evt_hvx	client_handling.c	/^static void on_evt_hvx(ble_evt_t * p_ble_evt, client_t * p_client, uint32_t index)$/;"	f	file:
+on_evt_timeout	client_handling.c	/^static void on_evt_timeout(ble_evt_t * p_ble_evt, client_t * p_client)$/;"	f	file:
+on_evt_write_rsp	client_handling.c	/^static void on_evt_write_rsp(ble_evt_t * p_ble_evt, client_t * p_client)$/;"	f	file:
+on_sys_evt	main.c	/^static void on_sys_evt(uint32_t sys_evt)$/;"	f	file:
+p_data	main.c	/^    uint8_t     * p_data;                                                      \/**< Pointer to data. *\/$/;"	m	struct:__anon4	file:
+power_manage	main.c	/^static void power_manage(void)$/;"	f	file:
+pstorage_block_t	config/pstorage_platform.h	/^typedef uint32_t pstorage_block_t;$/;"	t
+pstorage_flash_page_end	config/pstorage_platform.h	/^static __INLINE uint32_t pstorage_flash_page_end()$/;"	f
+pstorage_flash_page_size	config/pstorage_platform.h	/^static __INLINE uint16_t pstorage_flash_page_size()$/;"	f
+pstorage_handle_t	config/pstorage_platform.h	/^} pstorage_handle_t;$/;"	t	typeref:struct:__anon3
+pstorage_size_t	config/pstorage_platform.h	/^typedef uint16_t pstorage_size_t;      \/** Size of length and offset fields. *\/$/;"	t
+remduplicates	pca10028/s120/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/s130/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/ser_s120_hci/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/ser_s120_spi/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/ser_s120_uart/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/ser_s130_hci/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/ser_s130_spi/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10028/ser_s130_uart/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10031/s120/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+remduplicates	pca10031/s130/armgcc/Makefile	/^remduplicates = $(strip $(if $1,$(firstword $1) $(call remduplicates,$(filter-out $(firstword $1),$1))))$/;"	m
+scan_start	main.c	/^static void scan_start(void)$/;"	f	file:
+service_discover	client_handling.c	/^static void service_discover(client_t * p_client)$/;"	f	file:
+srv_db	client_handling.c	/^    ble_db_discovery_t           srv_db;            \/**< The DB Discovery module instance associated with this client. *\/$/;"	m	struct:__anon2	file:
+state	client_handling.c	/^    uint8_t                      state;             \/**< Client state. *\/$/;"	m	struct:__anon2	file:
+sys_evt_dispatch	main.c	/^static void sys_evt_dispatch(uint32_t sys_evt)$/;"	f	file:

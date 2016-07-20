@@ -1,0 +1,13 @@
+#w4 4001E504 2
+#w4 4001e50C 1
+#w4 4001e514 1
+#Sleep 1000
+#r
+#g
+loadbin $NRF_SDK/components/softdevice/s130/hex/s130_softdevice.hex 0
+sleep 100
+loadbin  ../pca10028/s130/armgcc/_build/nrf51822_s130.hex 0x20000
+sleep 100
+r
+g
+q

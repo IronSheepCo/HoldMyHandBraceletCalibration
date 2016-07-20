@@ -1,0 +1,6 @@
+#ifndef __HOLDMYHAND_BEACON_CONFIG_H__
+#define __HOLDMYHAND_BEACON_CONFIG_H__
+
+#define BEACON_NAME "HMHBeacona7"
+#define BEACON_HASH 32217
+#endif
